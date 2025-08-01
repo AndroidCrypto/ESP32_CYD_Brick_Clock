@@ -28,8 +28,8 @@ const char* PROGRAM_TITLE = "ESP32 CYD Brick Clock";
 // ----------------------------------------------------------------
 // WiFi / NTP
 
-const char* WIFI_SSID = "FRITZ!Box 7490";
-const char* WIFI_PASSWORD = "bm123456";
+const char* WIFI_SSID = "change to your router";
+const char* WIFI_PASSWORD = "change to your password";
 
 // Time management
 // Configuration of NTP
