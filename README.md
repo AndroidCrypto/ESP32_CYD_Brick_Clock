@@ -13,5 +13,15 @@ Please don't forget to copy the files "Setup801_ESP32_CYD_ILI9341_240x320.h" and
 
 ## Required Libraries
 ````plaintext
-TFT_eSPI Version: 
+TFT_eSPI Version: 2.4.3 *1) (https://github.com/Bodmer/TFT_eSPI)
+
+*1) In case you encounter any problems with the TFT_eSPI library you should consider to use my forked TFT_eSPI library that solved some problems, see link below
+````
+
+Forked TFT_eSPI library by AndroidCrypto: https://github.com/AndroidCrypto/TFT_eSPI
+
+## Development Environment
+````plaintext
+Arduino IDE Version 2.3.6 (Windows)
+arduino-esp32 boards Version 3.2.0 (https://github.com/espressif/arduino-esp32)
 ````
