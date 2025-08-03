@@ -10,3 +10,8 @@ For short - what is a "Cheap Yellow Display" ? This device was introduced s
 
 Please don't forget to copy the files "Setup801_ESP32_CYD_ILI9341_240x320.h" and "Setup805_ESP32_CYD_ST7789_240x320.h" in the "User_Setups" folder of the TFT_eSPI library and edit the 
 "User_Setup_Select.h" to include the set up, depending on your CYD board type (ILI9341 or ST778).
+
+## Required Libraries
+````plaintext
+TFT_eSPI Version: 
+````
